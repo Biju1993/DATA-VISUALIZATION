@@ -1,1 +1,25 @@
 # DATA-VISUALIZATION
+
+**THE CODE SHEET FOUND IN THIS REPOSITORY IS TO PROVE MY PROFIICENCY IN THE PLOTTING DATA AND DATA VISALIZATION**
+
+KINDLY REFER BELOW LINK FOR MY CODING SKILL,SKILL SET,LEADERSHIP IN CODING PLATFORM.
+
+https://www.guvi.in/bijukrishnadhas74**
+
+## THE PACKAGES OF THE PYTHON LEARNED 
+- PANDAS
+- NUMPY
+- MATPLOTLIB
+- SEABORN
+- BOKEH
+- PLOTLY
+
+## THE BELOW ARE  SAMPLE PLOT FOUND IN THE REPOSITORY AND THE CERTIFICATION
+
+![image](https://user-images.githubusercontent.com/99380142/184575690-2222be6a-22b5-4187-8ab9-fc5063f04133.png)
+![National Flag](https://user-images.githubusercontent.com/99380142/184575723-80ff9dc3-7c4e-40a3-9765-0a4fe58551e6.png)
+
+![DS Pandas](https://user-images.githubusercontent.com/99380142/184575695-44378056-e41e-4df2-a2e2-67bcde941e6d.png)
+![DATAVISUALIZATION USING MATPLOTLIB IN PYTHON](https://user-images.githubusercontent.com/99380142/184575699-d16de2ac-e01b-4666-8c35-f0f5e9957a0e.png)
+![DATA VISUALIZATION IN PYTHON](https://user-images.githubusercontent.com/99380142/184575706-76cea2db-a54b-4676-9275-fc5db05342b2.png)
+![109](https://user-images.githubusercontent.com/99380142/184575712-062ed754-aa48-46d1-a08d-64ca56c3c44c.png)
